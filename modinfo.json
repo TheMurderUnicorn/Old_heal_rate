@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "oldhealrate",
+    "name": "Old Heal Rate",
+    "authors": [ "TheMurderUnicorn" ],
+    "description": "Changes player and NPC heal rates to old values",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]
